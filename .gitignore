@@ -1,0 +1,29 @@
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Visual Studio Code
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/settings.json
+!.vscode/tasks.json
+.history/*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log
+*.log
+ship_tracks_map.html
+
+# Environment files
+.env
+.env.*
+env/*
